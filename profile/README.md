@@ -1,4 +1,4 @@
-# 🖤 BlackYurei
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3e494623-2265-4841-8950-12d20eabf7ca" /> BlackYurei
 
 **Programming · Cybersecurity · Web Development**
 
